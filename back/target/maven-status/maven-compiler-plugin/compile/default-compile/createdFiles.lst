@@ -1,0 +1,11 @@
+com\q4k\factories\QuestionFactory.class
+com\q4k\Q4KVerticle.class
+com\q4k\QuestionService.class
+com\q4k\factories\TimeQuestionFactory.class
+com\q4k\factories\ArithmeticQuestionFactory.class
+com\q4k\factories\QuestionLanguageQuestionFactory.class
+com\q4k\factories\SerieQuestionFactory.class
+com\q4k\factories\PatternQuestionFactory.class
+com\q4k\factories\GeographyQuestionFactory.class
+com\q4k\factories\IQuestionFactory.class
+com\q4k\Question.class

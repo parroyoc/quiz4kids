@@ -1,0 +1,1 @@
+c:\java\jre8\bin\java -jar target\Q4Kback-0.0.1-SNAPSHOT-fat.jar

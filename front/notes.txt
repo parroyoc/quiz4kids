@@ -1,0 +1,8 @@
+
+Ideas flow:
+
+1. All javascript generation (problem with questions, we need a database)
+2. Get the full question including HTML from the server (full control from the server, bad separation of concerns)
+3. Get only a set of key fields from the server (json parsing, strict templating, bigger client, less traffic)
+
+Going with option 2 for now
